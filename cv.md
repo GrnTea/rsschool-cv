@@ -4,10 +4,9 @@ mobile: +380730903415 (viber, telegram, whatsapp)| email: grinteabox@gmail.com
 ------------ | -------------
 Current city: Kyiv | Birth date: 09/11/1984
 ---
-Hi there! I've been keen on math since I was at school and it has always been my dreem to be involved in different interesting projects with 
-I believe that my skills, professional experience and knowledge will be of high value, since I honed my professional and personal skills in different areas.
+Hi there! I've been always keen on math, logic and problem-solving strategies and it's been my dreem to be involved in different interesting projects with clear result or product. I've always tried to master my learning and communicating abilities while studying in polytechnical liceum and then continuing education as an economist in different countries and on different levels. Later, having achieved pretty good results in Economics I still wasn't satisfied and the sphere of my interests moved to front-end. Since then I have trained a lot with the help of various online and offline courses, open resourses, etc. 
 
-I am responsible and accurate, patient and acumen. I travelled a lot and worked with people from different background, I like web mark-up and am keen on photography and educationa activities with children.
+I believe that my skills and knowledge honed in different areas will be of high value. I am responsible and accurate, patient and acumen. I travelled a lot and worked with people from different background, I like the web mark-up and am keen on photography and educational activities with children.
 
 ---
 Work experience |  Employer && Main Responsibilities 
