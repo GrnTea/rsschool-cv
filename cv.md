@@ -12,14 +12,14 @@ I believe that my skills and knowledge honed in different areas will be of high 
 Work experience |  Employer && Main Responsibilities 
 ----- | -----
 2019 – present | Happy Home Kids CLub, Kyiv, Ukraine <br>**Teacher of logic and mathematics**
-20012 – 20014 | Deloitte Touche Tohmatsu Limited, Audit Department, Minsk, Belarus <br>**Auditor Assistant** 
+20012 – 20014 | Deloitte Touche Tohmatsu Limited, Audit Department, Minsk, Belarus <br>**Auditor Assistant**<br><ul><li>Participation in audit projects in banking and real sectors</li></ul>
 20011 – 20012 | National Bank of the Republic of Belarus, Banking Supervision Directorate, Banking System Stability Analysis Department, Section of Analysis and Forecasting of Systemic Banking Risks, Minsk, Belarus <br>**Chief specialist**<br><ul><li>Calculation and analysis of Financial Soundness Indicators</li><li>Writing of quarterly and yearly analyses of banking system stability</li><li>Preparation of analytical materials on different topics (methodology of FSI, crises of banking system, etc.)</li></ul>
-2009 – 2011 | Audit company RTF-Audit, International Accounting Standards Department, Moscow, Russia <br>**Economist**
-2005 – 2006 | Belarus State University, Faculty of Management and Social Work, Minsk, Belarus <br>**Assistant Lecturer**
+2009 – 2011 | Audit company RTF-Audit, International Accounting Standards Department, Moscow, Russia <br>**Economist**<br><ul><li>Accounting, tax planning and audit in accordance with the international accounting standards</li></ul>
+2005 – 2006 | Belarus State University, Faculty of Management and Social Work, Minsk, Belarus <br>**Assistant Lecturer**<br><ul><li>Gave lectures and seminars in Microeconomics to the first year students of the undergraduate program</li></ul>
 
 Education | Place
 ----- | -----
-2016 – present | Self-education on Front-end from different sources (HTML Academy, 
+2016 – present | Self-education on Front-end from different sources (HTML Academy, udemy.com, etc)
 2019 | Modern JavaScript [The Complete Course](https://www.udemy.com/course/modern-javascript-the-complete-course-build-10-projects/) on udemy.com
 2017 | Computer course PROG.kiev.ua, Kyiv, Ukraine <br>**Front-End-I, Front-End-Pro**
 2013 | Belarusian Association of Accountants, Minsk, Belarus <br>**Accounting and taxation**
