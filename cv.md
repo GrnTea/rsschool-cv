@@ -29,7 +29,7 @@ Education | Location
 2000 – 2005 | Belarus State University, Economics Faculty, Minsk, Belarus<br>**Diploma**<br><ul><li>Thesis titled *“Social Market Economy: Institutional Macroeconomic Model”*</li></ul><br>
 **Languages** | Russian/Belarussian - native, Ukraine – intermediate, English – upper-intermediate
 **Computer skills** | Google Docs, MS Office, PowerPoint, Photoshop, Excel; <br>HTML, CSS, JavaScript, Git, React, Redux; <br>1C: Accounting 7.7.
-
+**Other** | During the last few years I was on maternity leave.
 
 
 
