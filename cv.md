@@ -17,7 +17,7 @@ Work experience |  Employer && Main Responsibilities
 2009 – 2011 | Audit company RTF-Audit, International Accounting Standards Department, Moscow, Russia <br>**Economist**<br><ul><li>Accounting, tax planning and audit in accordance with the international accounting standards</li></ul>
 2005 – 2006 | Belarus State University, Faculty of Management and Social Work, Minsk, Belarus <br>**Assistant Lecturer**<br><ul><li>Gave lectures and seminars in Microeconomics to the first year students of the undergraduate program</li></ul>
 
-Education | Place
+Education | Location
 ----- | -----
 2016 – present | Self-education on Front-end from different sources (HTML Academy, udemy.com, etc)
 2019 | Modern JavaScript [The Complete Course](https://www.udemy.com/course/modern-javascript-the-complete-course-build-10-projects/) on udemy.com
