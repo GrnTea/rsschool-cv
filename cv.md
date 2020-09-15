@@ -19,7 +19,7 @@ Work experience |  Employer && Main Responsibilities
 
 Education | Location
 ----- | -----
-2016 – present | Self-education on Front-end from different sources (HTML Academy, udemy.com, etc)
+2016 – present | Self-education in Front-end from different sources (HTML Academy, udemy.com, etc)
 2019 | Modern JavaScript [The Complete Course](https://www.udemy.com/course/modern-javascript-the-complete-course-build-10-projects/) on udemy.com
 2017 | Computer course PROG.kiev.ua, Kyiv, Ukraine <br>**Front-End-I, Front-End-Pro**
 2013 | Belarusian Association of Accountants, Minsk, Belarus <br>**Accounting and taxation**
