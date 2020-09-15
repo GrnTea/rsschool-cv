@@ -9,7 +9,7 @@ Hi there! I've been always keen on math, logic and problem-solving strategies an
 I believe that my skills and knowledge honed in different areas will be of high value. I am responsible and accurate, patient and acumen. I travelled a lot and worked with people from different background, I like the web mark-up and am keen on photography and educational activities with children.
 
 ---
-Work experience |  Employer && Main Responsibilities 
+Work experience |  Employer & Main Responsibilities 
 ----- | -----
 2019 – present | Happy Home Kids CLub, Kyiv, Ukraine <br>**Teacher of logic and mathematics**
 20012 – 20014 | Deloitte Touche Tohmatsu Limited, Audit Department, Minsk, Belarus <br>**Auditor Assistant**<br><ul><li>Participation in audit projects in banking and real sectors</li></ul>
