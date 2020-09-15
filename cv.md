@@ -1,6 +1,6 @@
 # Ekaterina Matvieieva
 ---
-Mobile: +380730903415 (Viber, Telegram, WhatsApp)| Email: grinteabox@gmail.com
+Mobile: +380730903415 (Viber, Telegram, WhatsApp) | Email: grinteabox@gmail.com
 ------------ | -------------
 Current city: Kyiv | Birth date: 09/11/1984
 ---
