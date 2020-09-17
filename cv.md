@@ -1,7 +1,7 @@
 # Ekaterina Matveeva #
 ---
 
-**Telegram:** +38 01234567890<br>
+**Telegram, Viber:** +38 01234567890<br>
 **Email:** blacktea@gmail.com
 
 ---
@@ -17,7 +17,7 @@ Happy Summer Club, Kyiv, Ukraine<br>
 *Teacher of logic and mathematics*
 
 2011 – 2014<br>
-DTT Limited, Audit Department - VTB-Bank, Banking Supervision Directorate Minsk, Belarus<br>
+DTT Bank, Banking Supervision Directorate Minsk, Belarus<br>
 *Chief specialist*
 
 2009 – 2011<br>
@@ -35,7 +35,8 @@ Belarus State University, Faculty of Management and Social Work, Minsk, Belarus<
 Self-education in Front-end from different sources:<br> - [PROG.kiev.ua](https://prog.kiev.ua/)<br> - [HTML Academy](https://htmlacademy.ru/)<br> - [learn.javascript.ru](https://learn.javascript.ru/)<br> - Modern JavaScript [The Complete Course](https://www.udemy.com/course/modern-javascript-the-complete-course-build-10-projects/), etc
 
 2006 – 2009<br>
-CORIPE, Turin, Italy - CERGE-EI, Prague, Czech Republic
+CORIPE, Turin, Italy - CERGE-EI, Prague, Czech Republic<br>
+*Masters in Economics*
 
 2000 – 2005<br>
 Belarus State University, Economics Faculty, Minsk, Belarus
