@@ -36,7 +36,7 @@ Belarus State University, Economics Faculty, Minsk, Belarus<br>**Diploma**
 ◾◾◾◽◽ JavaScript  
 ◾◾◽◽◽ React  
 ◾◽◽◽◽ Redux  
-◾◽◽◽◽ Photoshop  
+◾◾◾◽◽ Photoshop  
 
 ## Languages ##
 Russian/Belarussian - native, Ukraine – upper-intermediate, English – upper-intermediate (B2/C1)
