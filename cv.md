@@ -16,11 +16,16 @@ Work experience |  Employer & Main Responsibilities
 2005 – 2006 | Belarus State University, Faculty of Management and Social Work, Minsk, Belarus <br>**Assistant Lecturer**<br>
 
 
-Education | Location
------ | -----
-2016 – present | Self-education in Front-end from different sources [PROG.kiev.ua](https://prog.kiev.ua/), ([HTML Academy](https://htmlacademy.ru/), [learn.javascript.ru](https://learn.javascript.ru/), Modern JavaScript [The Complete Course](https://www.udemy.com/course/modern-javascript-the-complete-course-build-10-projects/), [Udemy](udemy.com), etc)
-2006 – 2009 | CORIPE, Turin, Italy - CERGE-EI, Prague, Czech Republic<br>**Master in Economics** (all courses were taught in English)
-2000 – 2005 | Belarus State University, Economics Faculty, Minsk, Belarus<br>**Diploma**
+## Education ## 
+
+2016 – present 
+Self-education in Front-end from different sources:<br> - [PROG.kiev.ua](https://prog.kiev.ua/)<br> - [HTML Academy](https://htmlacademy.ru/)<br> - [learn.javascript.ru](https://learn.javascript.ru/)<br> - Modern JavaScript [The Complete Course](https://www.udemy.com/course/modern-javascript-the-complete-course-build-10-projects/), etc
+
+2006 – 2009
+CORIPE, Turin, Italy - CERGE-EI, Prague, Czech Republic<br>**Master in Economics** (all courses were taught in English)
+
+2000 – 2005
+Belarus State University, Economics Faculty, Minsk, Belarus<br>**Diploma**
 
 ## My future projects ##
 [gitHub](https://github.com/visionmedia/page.js?files=1)
