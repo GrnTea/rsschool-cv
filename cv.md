@@ -1,19 +1,19 @@
 # Ekaterina Matveeva #
 ---
-Mobile: +38 01234567890 (Viber, Telegram, WhatsApp) | Email: blacktea@gmail.com
------------- | -------------
-Current city: Kyiv | Birth date: 09/11/1984
+| Mobile: +38 01234567890 (Viber, Telegram, WhatsApp) | Email: blacktea@gmail.com |
+|------ | ------ |
+| Current city: Kyiv | Birth date: 09/11/1984 |
 ---
 ## Summary ##
 Hi there! I've been always keen on math, logic and problem-solving strategies and it's been my dreem to be involved in different interesting projects with clear result. I am a hard-worker and a quick-learner and I try to do my best in studying front-end.
 
 ---
-Work experience |  Employer & Main Responsibilities 
------ | -----
-2019 – present | Happy Summer Club, Kyiv, Ukraine <br>**Teacher of logic and mathematics**
-2011 – 2014 | DTT Limited, Audit Department - VTB-Bank, Banking Supervision Directorate Minsk, Belarus <br>**Chief specialist**<br>
-2009 – 2011 | Audit company Bla-Bla-Audit, International Accounting Standards Department, Moscow, Russia <br>**Economist**<br>
-2005 – 2006 | Belarus State University, Faculty of Management and Social Work, Minsk, Belarus <br>**Assistant Lecturer**<br>
+| Work experience |  Employer & Main Responsibilities |
+| ------ | ------ |
+| 2019 – present | Happy Summer Club, Kyiv, Ukraine <br>**Teacher of logic and mathematics** |
+| 2011 – 2014 | DTT Limited, Audit Department - VTB-Bank, Banking Supervision Directorate Minsk, Belarus <br>**Chief specialist** |
+| 2009 – 2011 | Audit company Bla-Bla-Audit, International Accounting Standards Department, Moscow, Russia <br>**Economist** |
+| 2005 – 2006 | Belarus State University, Faculty of Management and Social Work, Minsk, Belarus <br>**Assistant Lecturer**|
 
 
 ## Education ## 
