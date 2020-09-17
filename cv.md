@@ -2,7 +2,8 @@
 ---
 
 **Telegram, Viber:** +38 01234567890<br>
-**Email:** blacktea@gmail.com
+**Email:** blacktea@gmail.com<br>
+**Current city:** Kiev
 
 ---
 ## Summary ##
