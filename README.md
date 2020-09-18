@@ -1,2 +1,1 @@
-# rsschool-cv
-CV for RSSchool
+https://grntea.github.io/rsschool-cv/
