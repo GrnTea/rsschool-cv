@@ -10,7 +10,6 @@
 Hi there! I've been always keen on math, logic and problem-solving strategies and it's been my dreem to be involved in different interesting projects with clear result. I am a hard-worker and a quick-learner and I try to do my best in studying front-end.
 
 ---
-
 ## Work experience ##
 
 2019 – present<br>
@@ -55,6 +54,7 @@ Belarus State University, Economics Faculty, Minsk, Belarus
 
 ## Languages ##
 Russian/Belarussian - native, Ukraine – upper-intermediate, English – upper-intermediate (B2/C1)
+
 
 
 
