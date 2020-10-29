@@ -1,8 +1,8 @@
 # Ekaterina Matveeva #
 ---
 
-**Telegram, Viber:** +38 01234567890<br>
-**Email:** blacktea@gmail.com<br>
+**Telegram, Viber:** +38 0111111110<br>
+**Email:** grinteabox@gmail.com<br>
 **Current city:** Kiev
 
 ---
